@@ -10,13 +10,7 @@ export default function App() {
     const { theme, toggleTheme } = useTheme();
 
     return (
-        <div
-            className={classNames("app", { hovered: true, selected: true }, [
-                theme,
-                "cls1",
-                "cls2",
-            ])}
-        >
+        <div className={classNames("app", {}, [theme])}>
             <button onClick={toggleTheme}>Change theme</button>
             <Link to={"/"}>Главная</Link>
             <Link to={"/about"}>О сайте</Link>
