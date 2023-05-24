@@ -1,7 +1,8 @@
 {
-    "language": "English",
-    "toggle": "TOGGLE",
-    "Main": "Main",
-    "About": "About",
-    "Loading": "Loading..."
+  "language": "English",
+  "toggle": "TOGGLE",
+  "Main": "Main",
+  "About": "About",
+  "Loading": "Loading...",
+  "page_not_exist": "This page is not exist"
 }
