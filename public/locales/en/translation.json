@@ -4,5 +4,8 @@
   "Main": "Main",
   "About": "About",
   "Loading": "Loading...",
-  "page_not_exist": "This page is not exist"
+  "page_not_exist": "This page is not exist",
+  "error_occured": "Something went wrong.",
+  "throw_error": "Throw error",
+  "reload_page": "Reload page"
 }
